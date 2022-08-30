@@ -253,11 +253,27 @@ bajo la frecuencia de resonancia, el voltaje de salida aumenta.
 
 **EJERCICIOS CAPITULO 17**
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/5.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/6.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/7.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/8.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/9.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/10.jpg)
 
 **EJERCICIOS CAPITULO 18**
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/1-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/1-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/1-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/1-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/1-5.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/1-6.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/1-7.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/1-8.jpg)
 
 4. VIDEO
 
@@ -304,4 +320,4 @@ bajo la frecuencia de resonancia, el voltaje de salida aumenta.
 Floyd, T. L, (2007). _PRINCIPIOS DE CIRCUITOS ELECTRICOS_. México: PEARSON EDUCACIÓN.
 
 RUBRICA
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_9/blob/main/IMAGENES%20CAP%2017%20Y%2018/RubicasTarea.png)
