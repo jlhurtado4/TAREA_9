@@ -4,7 +4,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 - NRC: 7318
 - FECHA: 30 AGOSTO 2022
 
-# InformeTarea8
+# InformeTarea9
 
 1. OBJETIVOS
 
@@ -277,7 +277,7 @@ bajo la frecuencia de resonancia, el voltaje de salida aumenta.
 
 4. VIDEO
 
-
+https://www.youtube.com/watch?v=YMJ90rK_7xo
 
 5. CONCLUSIONES
 
